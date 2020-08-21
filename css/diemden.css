@@ -269,7 +269,7 @@
 {
     height: 99.9vh;
     margin-top: 0.1vh;
-    width: 50%;
+    width: 100%;
     object-fit: cover;
     position: absolute;
     right: 0;
@@ -279,7 +279,7 @@
 
 .diemdenpageblack
 {
-    opacity: 0;
+    opacity: 0.5;
     mix-blend-mode:multiply;
     background-color: black;
     width: 100%;
@@ -378,7 +378,7 @@
 {
     height: 99.9vh;
     margin-top: 0.1vh;
-    width: 50%;
+    width: 100%;
     object-fit: cover;
     position: absolute;
     right: 0;
@@ -406,11 +406,11 @@
 {
     height: 99.9vh;
     margin-top: 0.1vh;
-    width: 50%;
+    width: 100%;
     object-fit: cover;
     position: absolute;
     right: 0;
-    opacity: 1;
+    opacity:1;
     transition: all 1s cubic-bezier(.7,0,.26,1);
 }
 
@@ -434,7 +434,7 @@
 {
     height: 99.9vh;
     margin-top: 0.1vh;
-    width: 50%;
+    width: 100%;
     object-fit: cover;
     position: absolute;
     right: 0;
